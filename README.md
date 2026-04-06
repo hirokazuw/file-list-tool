@@ -26,4 +26,4 @@
 ## 開発者
 渡部 裕和  
 VBAエキスパート スタンダードクラウン保持  
-https://hirokazu-watabe.jp/excelvba1
+https://hirokazu-watabe.jp
